@@ -11,3 +11,7 @@
 #### Bi-GRU-PV (Bi-GRU dengan paragraph vector, 2 polaritas data Tripadvisor)
 #### Bi-GRU-3 (Bi-GRU, 3 polaritas data Prosa)
 #### Bi-GRU-3-PV (Bi-GRU dengan paragraph vector, 3 polaritas data Prosa)
+#### LSTM-Bi-LSTM (Hierarchical LSTM + Bi-LSTM, 3 polaritas data Prosa)
+#### LSTM-Bi-GRU (Hierarchical LSTM + Bi-GRU, 3 polaritas data Prosa)
+#### CNN-Bi-LSTM (Hierarchical CNN + Bi-LSTM, 3 polaritas data Prosa)
+#### CNN-Bi-GRU (Hierarchical CNN + Bi-GRU, 3 polaritas data Prosa)
