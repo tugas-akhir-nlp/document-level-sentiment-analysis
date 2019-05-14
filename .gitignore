@@ -1,0 +1,8 @@
+model/prosa
+model/tripadvisor
+resources/corpus/prosa
+resources/prosa-w2v
+resources/vectorizer/prosa
+resources/vectorizer/tripadvisor
+src/Demo.ipynb
+src/Dnn.py
